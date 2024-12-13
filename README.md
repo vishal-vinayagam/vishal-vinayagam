@@ -1,4 +1,4 @@
-# Hi there, I'm Vishal Vinayagam! 👋
+# Hi there, I'm Vishal! 👋
 
 Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (Face Prep Campus)** in Tiruppur, India. With a passion for **problem-solving**, **UI/UX design**, and **game development**, I aim to build innovative solutions and contribute to impactful projects.
 
@@ -52,11 +52,11 @@ An enhanced version of the Chrome Dino game with score-based background and text
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-In-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
-[![GitHub](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)  
-[![Instagram](https://img.shields.io/badge/-Ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Threads](https://img.shields.io/badge/-T-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/)
 
 ---
 
