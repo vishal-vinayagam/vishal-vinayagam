@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal! 👋
 
-Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (Face Prep Campus)** in Tiruppur, India. I have a passion for **problem-solving**, **UI/UX design**, **graphic design**, and **game development**, and I aim to build innovative solutions and contribute to impactful projects.
+Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (Face Prep Campus)** in Tiruppur, India. I have a passion for **problem-solving**, **UI/UX design**, **graphic design**and **game development**, and I aim to build innovative solutions and contribute to impactful projects.
 
 ---
 
@@ -19,16 +19,12 @@ Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (
 - **Web Design**: Creating visually appealing and user-friendly interfaces  
 - **Game Development**: Projects like **Snake Game**, **Candy Crush**, and **Chrome Dino**  
 
-### Tools & Platforms:  
-- **Development**: VS Code, GitHub  
+### Tools & Platforms:   
 
 ### Graphic Design Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
-
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png"/>
+- **Development**: VS Code, GitHub  
 
 ---
 
