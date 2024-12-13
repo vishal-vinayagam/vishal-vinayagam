@@ -52,8 +52,11 @@ An enhanced version of the Chrome Dino game with score-based background and text
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)
+[![LinkedIn](https://img.shields.io/badge/-In-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
+[![GitHub](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)  
+[![Instagram](https://img.shields.io/badge/-Ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Threads](https://img.shields.io/badge/-T-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/)
 
 ---
 
