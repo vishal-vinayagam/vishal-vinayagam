@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (
 ## 🚀 About Me
 - 🏫 **Education**: Pursuing BCA (2nd Year)
 - 🎯 **Objective**: To secure a position in a top reputed organization in India.
-- 💡 **Hobbies**: Cycling, reading books, traveling, watching anime, learning new skills, and listening to music.
+- 💡 **Hobbies**: Cycling 🚴, reading books 📚, traveling ✈️, watching anime 🌸, learning new skills 🛠️, and listening to music 🎵.
 - 🖌️ **Design Interests**: Completed courses on **UI/UX Color Theory** and **Intro to Graphic Design with Photoshop**.
 - 🎮 **Game Enthusiast**: Currently working on exciting projects like a **multiplayer game** and **gamified learning platform**.
 - 📝 **Soft Skills**: Certified in **Communication Skills**, **Time Management**, and **Interview Skills**.
@@ -18,12 +18,12 @@ Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (
 ## 🛠️ My Skills
 
 ### Programming & Development:
-- **Web Design**: Focused on creating visually appealing user interfaces.
-- **Game Development**: Projects like Snake Game, Candy Crush, and Chrome Dino.
+- 🎨 **Web Design**: Focused on creating visually appealing user interfaces.
+- 🎲 **Game Development**: Projects like Snake Game, Candy Crush, and Chrome Dino.
 
 ### Tools & Platforms:
-- **Design**: Photoshop, Figma.
-- **Development**: VS Code, GitHub.
+- 🖌️ **Design**: Photoshop, Figma.
+- 💻 **Development**: VS Code, GitHub.
 
 ---
 
@@ -41,19 +41,19 @@ An enhanced version of the Chrome Dino game with score-based background and text
 ---
 
 ## 📜 Certifications
-- **UI/UX Color Theory** (Infosys)
-- **Data Visualization - CAP Certification** (Infosys)
-- **Object-Oriented Programming using Python** (Infosys)
-- **Communication Skills** (TCSiON)
-- **Time Management** (Infosys)
-- **Intro to Graphic Design with Photoshop** (Great Learning)
-- **Video Editing Basics** (Great Learning)
+- 🖌️ **UI/UX Color Theory** (Infosys)
+- 📊 **Data Visualization - CAP Certification** (Infosys)
+- 🐍 **Object-Oriented Programming using Python** (Infosys)
+- 🗣️ **Communication Skills** (TCSiON)
+- ⏳ **Time Management** (Infosys)
+- 🖼️ **Intro to Graphic Design with Photoshop** (Great Learning)
+- 🎥 **Video Editing Basics** (Great Learning)
 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Vishal Vinayagam](https://www.linkedin.com/in/vishal-vinayagam)
-- **GitHub**: [vishal-vinayagam](https://github.com/vishal-vinayagam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)
 
 ---
 
