@@ -35,9 +35,6 @@ An enhanced version of the Chrome Dino game with score-based background and text
 ### 🌌 [The Game of Entertainment and Survival Skills](#)
 A multiplayer game set in a multiverse, blending survival skills, puzzles, and an emotional storyline.
 
-### 🎲 [SkillTrek](#)
-A gamified career exploration platform using interactive simulations and AR technology to help teenagers explore professions.
-
 ---
 
 ## 📜 Certifications
