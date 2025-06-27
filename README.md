@@ -1,58 +1,83 @@
-# Hi there, I'm Vishal! 👋
+<!--
+  Vishal V's GitHub Profile README
+-->
 
-Welcome to my GitHub profile! I'm a **BCA student** at **Terfs Academy College (Face Prep Campus)** in Tiruppur, India. With a passion for **problem-solving**, **UI/UX design**, and **game development**, I aim to build innovative solutions and contribute to impactful projects.
+# 👋 Hey, I'm Vishal!
+
+I'm a **BCA student** at **Terfs Academy College (Face Prep Campus)**, Tiruppur.  
+Passionate about crafting **user-friendly web experiences**, **game development**, and creative **UI/UX design**.
 
 ---
 
 ## 🚀 About Me
-- 🏫 **Education**: Pursuing BCA (2nd Year)
-- 🎯 **Objective**: To secure a position in a top reputed organization in India.
-- 💡 **Hobbies**: Cycling 🚴, reading books 📚, traveling ✈️, watching anime 🌸, learning new skills 🛠️, and listening to music 🎵.
-- 🖌️ **Design Interests**: Completed courses on **UI/UX Color Theory** and **Intro to Graphic Design with Photoshop**.
-- 🎮 **Game Enthusiast**: Currently working on exciting projects like a **multiplayer game** and **gamified learning platform**.
-- 📝 **Soft Skills**: Certified in **Communication Skills**, **Time Management**, and **Interview Skills**.
-- 🎥 **Creative Skills**: Completed a **Video Editing Basics** course.
+
+🎓 **Education:** BCA (2nd Year)  
+🎯 **Goal:** To build impactful, real-world solutions in a dynamic tech environment  
+🎨 **Interests:** Front-end dev, game logic, UI/UX, tech innovations  
+🧠 **Learning:** UI/UX Color Theory, Graphic Design, Video Editing  
+⚡ **Hobbies:** Cycling 🚴 | Reading 📚 | Anime 🌸 | Exploring new tech 🛠️
 
 ---
 
-## 🛠️ My Skills
+## 💻 Skills & Tools
 
-### Programming & Development:
-- 🎨 **Web Design**: Focused on creating visually appealing user interfaces.
-- 🎲 **Game Development**: Projects like Snake Game, Candy Crush, and Chrome Dino.
-
-### Tools & Platforms:
-- 🖌️ **Design**: Photoshop, Figma.
-- 💻 **Development**: VS Code, GitHub.
+| **Programming Languages** | **Web Development**            | **Tools & Platforms**                    |
+|---------------------------|-------------------------------|-----------------------------------------|
+| C, C++, Java, C#, Python  | HTML5, CSS3, JavaScript, jQuery, Bootstrap | Git & GitHub, VS Code, Microsoft Excel |
+|                           |                               | Adobe Photoshop, Figma, Canva, AI Tools |
 
 ---
 
-## 🌟 Notable Projects
+## 🛠️ Projects
 
-### 🦖 [Chrome Dino Game](#)
-An enhanced version of the Chrome Dino game with score-based background and text color changes, and high-score tracking.
+Explore my repositories featuring:
 
-### 🌌 [The Game of Entertainment and Survival Skills](#)
-A multiplayer game set in a multiverse, blending survival skills, puzzles, and an emotional storyline.
+- User-friendly websites & templates  
+- Real-world problem-solving apps  
+- AI-powered trip planners & more  
+
+🔗 [Visit My GitHub Repos](https://github.com/vishal-vinayagam?tab=repositories)
+
+---
+
+## 🏆 Achievements
+
+- **Poster Presentation** | KSR College  
+  Certificate for presenting a tech poster at the event.
+
+- **Food Photography Certificate**  
+  Awarded for creative food photography in a visual arts competition.
+
+- **2nd Prize – Photography Contest** | TERF College  
+  Recognized for composition and theme.
+
+- **Microsoft Applied Skills – Azure AI (2023)**  
+  Shortlisted in a national challenge on AI and cloud computing.
 
 ---
 
 ## 📜 Certifications
-- 🖌️ **UI/UX Color Theory** (Infosys)
-- 📊 **Data Visualization - CAP Certification** (Infosys)
-- 🐍 **Object-Oriented Programming using Python** (Infosys)
-- 🗣️ **Communication Skills** (TCSiON)
-- ⏳ **Time Management** (Infosys)
-- 🖼️ **Intro to Graphic Design with Photoshop** (Great Learning)
-- 🎥 **Video Editing Basics** (Great Learning)
+
+- UI/UX Color Theory – Infosys  
+- Data Visualization – Infosys  
+- OOP with Python – Infosys  
+- C#(Basic) - Haker Rank
+- CSS – HakerRank
+- JavaScript(Intermediate) – HakerRank
+- Time Management – Infosys  
+- Intro to Graphic Design – Great Learning  
+- Video Editing Basics – Great Learning  
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vinayagam)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishal-vinayagam)  
+## 📫 Connect with Me
+
+| Email                          | Phone         | LinkedIn                                             | GitHub                                               | HackerRank                                                | Naukri Profile                      |
+|-------------------------------|---------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------|-----------------------------------|
+| [v.visshal122005@gmail.com](mailto:v.visshal122005@gmail.com) | +91 93454 57411 | [linkedin.com/in/vishal-vinayagam](https://www.linkedin.com/in/vishal-vinayagam) | [github.com/vishal-vinayagam](https://github.com/vishal-vinayagam) | [hackerrank.com/v_vishal122005](https://www.hackerrank.com/profile/v_vishal122005) | [naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid) |
 
 ---
 
-### ✨ "Transforming Ideas into Art" ✨
-Let’s build something amazing together!
+> ✨ *Transforming ideas into meaningful digital experiences.*  
+> Let’s connect and create something amazing!
+
