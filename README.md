@@ -41,22 +41,22 @@ I’m a **Web Developer & Designer** who enjoys building
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
 </p>
 
 ### 🌐 Web & UI
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwind,vite" />
 </p>
 
 ### 🎨 Design & Creative
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,canva,photoshop,illustrator,blender" />
 </p>
 
 ### ⚙️ Tools & Platforms
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,dotnet,googlecloud" />
 </p>
 
@@ -65,11 +65,10 @@ I’m a **Web Developer & Designer** who enjoys building
 ## 📸 Creative Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📷_Photography-2nd_Prize-orange?style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/🖼️_Poster_Presentation-KSR_College-blue?style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/🎨_Food_Photography-Creative-green?style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/☁️_Azure_AI-Microsoft-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📷_Photography-Enthusiast-orange?style=for-the-badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/🎨_Design-Creative_Mind-green?style=for-the-badge"/>
 </p>
+
 
 ---
 
@@ -96,7 +95,7 @@ I’m a **Web Developer & Designer** who enjoys building
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/vishal_">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
   </a>
 </p>
 
