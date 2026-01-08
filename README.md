@@ -1,92 +1,29 @@
-<!-- Vishal V | Professional GitHub Profile README -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vishal
+===============================================================================================================================
 
-<h1 align="center">Hi, I'm Vishal V</h1>
-<p align="center">BCA Student | Terfs Academy College (Face Prep Campus), Tiruppur</p>
+Web Developer and Designer
+--------------------------
 
----
+Developer in progress with a solid foundation in coding, front-end development, and modern toolchains, constantly improving through project-based learning.
 
-## 📘 Introduction
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [www.linkedin.com/in/vishal-v-053a9128b/](http://www.linkedin.com/in/vishal-v-053a9128b/)
+* ✉️  You can contact me at [v.vishal122005@gmail.com](mailto:v.vishal122005@gmail.com)
+* 🚀  I'm currently working on [Pursuving BCA](http://terf's academy)
+* 🧠  I'm currently learning springboot
+* 💬  Ask me about I'm secrete SpiderMan don't tell to anyone
 
-Currently pursuing a **Bachelor of Computer Applications** at Terfs Academy College.  
-I am continuously exploring how technology can be applied to build meaningful and practical solutions.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" alt="Filebase" title="Filebase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+</p>
 
-This GitHub is a collection of my academic, creative, and personal projects — ranging from **web-based interfaces**, **user-friendly tools**, to **real-world applications** like trip planners and design templates.
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/vishal-vinayagam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/vishal-vinayagam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/Vishal122005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@mr_vishal_0ff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/vishal-v-053a9128b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Support Me
 
-## 🧑‍🎓 Education
+<ul style="list-style-type: none; margin: 0;">
 
-- **Bachelor of Computer Applications (BCA)**  
-  Terfs Academy College (Face Prep Campus), Tiruppur  
-  *2023 – 2026 (Pursuing)*
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vishal_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
----
-
-## 🧠 Skills Overview
-
-### 📌 Languages
-- C, C++, Java, C#, Python (Basics)
-
-### 🌐 Web Technologies
-- HTML5, CSS3, JavaScript  
-- jQuery, Bootstrap
-
-### 🛠 Tools & Platforms
-- Visual Studio Code, Git & GitHub  
-- Canva, Figma, Adobe Photoshop  
-- Microsoft Excel, AI Tools
-
----
-
-## 📂 Notable Work
-
-Explore projects such as:
-
-- Trip planning websites with dynamic features  
-- Interactive UI templates  
-- Real-world utility websites  
-
-➡️ [Visit My Repositories](https://github.com/vishal-vinayagam?tab=repositories)
-
----
-
-## 🏅 Achievements
-
-- **Poster Presentation** – KSR College  
-  Certificate awarded for participating in a technical poster session.
-
-- **Food Photography Recognition**  
-  Earned a certificate for creative composition in a visual art competition.
-
-- **Photography Contest** – TERF College (2nd Prize)  
-  Recognized for theme-based photography at the college level.
-
-- **Microsoft Applied Skills – Azure AI (2023)**  
-  Shortlisted in a national-level skills challenge.
-
----
-
-## 📜 Certifications
-
-- UI/UX Color Theory – Infosys Springboard  
-- Data Visualization – Infosys CAP Program  
-- OOP with Python – Infosys  
-- Communication Skills – TCS iON  
-- Time Management – Infosys  
-- Graphic Design with Photoshop – Great Learning  
-- Video Editing Basics – Great Learning
-
----
-
-## 📬 Contact Details
-
-- ✉️ **Email**: [v.visshal122005@gmail.com](mailto:v.visshal122005@gmail.com)  
-- 📞 **Phone**: +91 93454 57411  
-- 🔗 **LinkedIn**: [linkedin.com/in/vishal-vinayagam](https://www.linkedin.com/in/vishal-vinayagam)  
-- 💻 **GitHub**: [github.com/vishal-vinayagam](https://github.com/vishal-vinayagam)  
-- 🧠 **HackerRank**: [hackerrank.com/v_vishal122005](https://www.hackerrank.com/profile/v_vishal122005)  
-- 🌐 **Naukri**: [naukri.com Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
-
----
-
-<p align="center"><em>Thank you for visiting my profile. I am continuously learning and open to exploring new opportunities.</em></p>
+</ul>
